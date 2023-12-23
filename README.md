@@ -27,5 +27,5 @@ This Python-based Inventory Management System allows users to interact with a pr
 
 Feel free to contribute to the project and make it even more robust and feature-rich! 🙌
 
-**Note:** Ensure to have the required dependencies installed before running the code. Check the "Requirements" section in the documentation for details.
+**Note:** Ensure to have the required dependencies installed before running the code.
 
