@@ -22,8 +22,6 @@ This Python-based Inventory Management System allows users to interact with a pr
 4. **Enhanced Error Handling:** Provide more informative error messages for better user guidance.
 5. **Product Addition/Deletion:** Include functionality to add new products to the inventory or remove existing ones.
 6. **Reports and Analytics:** Generate reports and analytics based on sales data for better business insights.
-7. **Code Modularization:** Break down the code into functions or modules for improved readability and maintainability.
-8. **Input Validation:** Implement thorough validation for user inputs to prevent errors and ensure data integrity.
 
 Feel free to contribute to the project and make it even more robust and feature-rich! 🙌
 
